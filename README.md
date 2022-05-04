@@ -1,2 +1,5 @@
-My system engineering Readme
-It contains Linux and Shell projects
+# DevOps basics
+
+
+It contains Linux and Shell Projects.
+Shell basics, permissions, redirections and variables expantions.
